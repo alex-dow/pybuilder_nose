@@ -1,3 +1,7 @@
+# DEAD
+
+Sadly this project is no longer active. Feel free to fork it and carry it on if you find it useful.
+
 # pybuilder_nose
 
 PyBuilder plugin to easily run nosetests.
